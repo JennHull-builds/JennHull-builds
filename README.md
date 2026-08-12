@@ -2,8 +2,6 @@
 
 **Senior Product Designer** — design systems, token architecture, and agentic Design Ops.
 
-Portfolio: [jenniferhull.co.za](https://jenniferhull.co.za) · Resume: [jenniferhull.co.za/resume](https://jenniferhull.co.za/resume)
-
 ---
 
 I’m deep in a new chapter: building more of the engineering myself.
@@ -19,7 +17,9 @@ Stuff here won’t always be polished. That’s the point. I’m playing, shippi
 
 ### Focus
 
-Systems thinking · multi-tenant governance · Human-in-the-Loop orchestration · high-signal execution
+### Right now
+
+Absorbing engineering end to end — shipping small tools, learning the stack in public, and building with AI-native workflows. Human-in-the-Loop orchestration and high-signal execution are non-negotiables. Systems thinking is just how I work.
 
 ---
 
