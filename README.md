@@ -15,7 +15,6 @@ Stuff here won’t always be polished. That’s the point. I’m playing, shippi
 - **[dx-grid-inspector](https://github.com/JennHull-builds/dx-grid-inspector)** — lightweight DX harness for layout nodes + spatial token calibration (React 19 · TypeScript · Tailwind CSS v4) · [live demo](https://dx-grid-inspector.vercel.app)
 - **Mothership** — agentic Design Ops infrastructure (case study on the [portfolio](https://jenniferhull.co.za))
 
-### Focus
 
 ### Right now
 
